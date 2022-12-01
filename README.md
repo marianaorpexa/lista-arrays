@@ -1,2 +1,2 @@
-# lista-arrays
-Lista execercio Arrays 
+# aula-arrays
+aula acompanhamento e execercio resolvidos Arrays 
